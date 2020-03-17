@@ -49,6 +49,7 @@ public class Day0308 {
 		System.out.println(a++);
 		System.out.println(a++);
 		System.out.println(a++);
+		System.out.println();
 		
 		System.out.println(a);
 	}

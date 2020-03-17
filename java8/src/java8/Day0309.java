@@ -6,7 +6,11 @@ public class Day0309 {
 		int daegu =2_000_000;
 		int global = 100_0000;
 		
-		System.out.println(daegu >= global?"대구광역시":"대구시");
+		
+		String str= ((daegu >= global) ? "대구광역시" : "대구시");
+		
+		System.out.println(str);
+		
 		
 		
 		

@@ -39,7 +39,7 @@ public class Day0401 {
 		System.out.println(res9); //0111
 		
 		int res10 =a^b;
-		System.out.println(res10);
+		System.out.println(res10);//0110
 		
 		
 	}

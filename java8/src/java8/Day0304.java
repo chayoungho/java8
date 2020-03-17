@@ -33,7 +33,7 @@ public class Day0304 {
 		System.out.println(num3);
 		int res9 = Math.abs(num3) % 45 + 1;
 		System.out.println(res9);
-	
+		
 	}
 
 }
